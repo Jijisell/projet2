@@ -1,0 +1,17 @@
+body{
+    background:url(./fond.jpg);
+}
+h1{
+    text-align: center;
+    letter-spacing: 3px;
+    text-decoration-style:wavy ;
+}
+h2{
+    text-align: center;
+    letter-spacing: 3px;
+    text-decoration-style: wavy;
+    
+}
+table{
+    color: beige;
+}
